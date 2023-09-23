@@ -251,18 +251,46 @@
   }
   .hsec3 {
     font-size: 20px;
+    padding: 20px;
     text-align: center;
     letter-spacing: -0.3px;
     line-height: 1.2;
   }
   .swip {
     width: 260px;
-    height: 450px;
-    margin-left: 35px;
+    height: 425px;
+    margin: 35px;
     background-color: white;
     display: flex;
     transition-property: transform;
     box-sizing: content-box;
     padding: 10px;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .imgc {
+    margin-bottom: 40px;
+  }
+  .spana {
+    font-size: 14px;
+  }
+  .hb {
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    letter-spacing: -0.3;
+    line-height: 30px;
+  }
+  .diva {
+    display: flex;
+    justify-content: space-between;
+  }
+  .spans {
+    color: blue;
+    font-size: 14px;
+  }
+  .imgd {
+    padding-left: 33%;
+    padding-bottom: 50px;
   }
 }/*# sourceMappingURL=index.css.map */
