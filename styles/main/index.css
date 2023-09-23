@@ -47,4 +47,55 @@
     font-family: Helvetica;
     color: #ECB22E;
   }
+  .text1 {
+    padding: 16px;
+    font-family: Helvetica;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.2px;
+    line-height: 1.444;
+  }
+  .bot {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .b1 {
+    padding: 20px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    color: #4E1D4E;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: white;
+  }
+  .b2 {
+    background-color: #4285F4;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .b3 {
+    padding: 20px;
+    margin-left: 13px;
+    font-weight: bolder;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  .b4 {
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+  }
 }/*# sourceMappingURL=index.css.map */
