@@ -407,7 +407,6 @@
     margin-left: 20px;
     font-weight: 700;
     font-size: 14px;
-    display: flex;
   }
   .imgf1 {
     width: 15px;
@@ -423,6 +422,9 @@
     width: 20px;
     height: 20px;
   }
+  .blue {
+    color: blue;
+  }
   .spanf {
     width: 90%;
     padding: 10px;
@@ -431,6 +433,7 @@
     text-align: left;
     display: block;
     line-height: 1.25rem;
+    color: rgb(187, 185, 185);
   }
 }
 @media only screen and (min-width: 901px) {
