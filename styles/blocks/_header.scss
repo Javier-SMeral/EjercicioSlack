@@ -12,6 +12,8 @@ header {
 .barra {
     width: 100vw;
     height: 6vh;
+    position: fixed;
+    background-color: #4E1D4E;
     object-fit: cover;
     display: flex;
     flex-direction: row;

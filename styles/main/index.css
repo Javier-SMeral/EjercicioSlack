@@ -17,6 +17,8 @@
   .barra {
     width: 100vw;
     height: 6vh;
+    position: fixed;
+    background-color: #4E1D4E;
     -o-object-fit: cover;
        object-fit: cover;
     display: flex;
